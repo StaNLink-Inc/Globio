@@ -8,7 +8,7 @@
   <p>
     <a href="https://console.globio.stanlink.online"><img src="https://img.shields.io/badge/Console-Launch%20App-039BE5?style=for-the-badge&logo=rocket" alt="Launch Console"></a>
     <a href="https://docs.globio.stanl.ink"><img src="https://img.shields.io/badge/Docs-Read%20More-4CAF50?style=for-the-badge&logo=book" alt="Documentation"></a>
-    <a href="https://discord.gg/globio"><img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" alt="Discord"></a>
+    <a href="https://discord.gg/wfkCSURNcq"><img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" alt="Discord"></a>
   </p>
   
   <p>
@@ -226,14 +226,14 @@ import { getFirestore } from '@globio/sdk'
 
 ## 🏗️ Architecture
 
-Globio runs on **Cloudflare's global network** with:
+Globio runs on **enterprise-grade global infrastructure** with:
 
 - **300+ Edge Locations** for ultra-low latency
-- **D1 Database** - SQLite at the edge
-- **R2 Storage** - S3-compatible object storage
-- **Durable Objects** - Stateful real-time services
-- **Workers** - Serverless compute with 0ms cold start
-- **KV Store** - Global key-value cache
+- **Distributed Database** - SQLite at the edge
+- **Object Storage** - S3-compatible cloud storage
+- **Stateful Services** - Real-time multiplayer rooms
+- **Serverless Compute** - Functions with 0ms cold start
+- **Global Cache** - Key-value store worldwide
 
 ---
 
@@ -245,7 +245,7 @@ Globio runs on **Cloudflare's global network** with:
 |----------|------|-------------|
 | 🚀 **Console** | [console.globio.stanlink.online](https://console.globio.stanlink.online) | Gaming dashboard and project management |
 | 📖 **Documentation** | [docs.globio.stanl.ink](https://docs.globio.stanl.ink) | Complete guides and API reference |
-| 💬 **Discord** | [discord.gg/globio](https://discord.gg/globio) | Community support and discussions |
+| 💬 **Discord** | [discord.gg/wfkCSURNcq](https://discord.gg/wfkCSURNcq) | Community support and discussions |
 | 🐙 **GitHub** | [github.com/globio](https://github.com/globio) | Open source SDKs and examples |
 | 🐦 **Twitter** | [@GlobioPlatform](https://twitter.com/GlobioPlatform) | Updates and announcements |
 | 📧 **Support** | support@globio.dev | Technical support and inquiries |
@@ -301,7 +301,7 @@ See [LICENSE](LICENSE) for more details.
   <p>
     <a href="https://console.globio.stanlink.online"><img src="https://img.shields.io/badge/Get%20Started-Free-039BE5?style=for-the-badge&logo=rocket" alt="Get Started"></a>
     <a href="https://docs.globio.stanl.ink"><img src="https://img.shields.io/badge/View%20Docs-4CAF50?style=for-the-badge&logo=book" alt="Documentation"></a>
-    <a href="https://discord.gg/globio"><img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord"></a>
+    <a href="https://discord.gg/wfkCSURNcq"><img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord"></a>
   </p>
   
   <p><strong>Built with ❤️ by game developers, for game developers</strong></p>
